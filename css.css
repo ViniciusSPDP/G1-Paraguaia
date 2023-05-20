@@ -174,3 +174,12 @@ section{
 .img-ban:hover {
     transform: scale(1.1);
 }
+.flex{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.bem-vindo{
+    text-align: center;
+}
